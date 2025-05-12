@@ -1,0 +1,8 @@
+title: Tech Terms Dictionary
+baseurl: "" # Leave empty for user/organization site
+url: "https://bhumi1102.github.io"
+
+collections:
+  terms:
+    output: true
+    permalink: /terms/:title/
